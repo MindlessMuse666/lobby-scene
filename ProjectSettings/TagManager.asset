@@ -11,8 +11,8 @@ TagManager:
   - 
   - Water
   - UI
-  - Alarm
-  - AlarmText
+  - 
+  - 
   - 
   - 
   - 
@@ -40,10 +40,4 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
-    locked: 0
-  - name: Button
-    uniqueID: 3509248537
-    locked: 0
-  - name: Alarm
-    uniqueID: 65393539
     locked: 0
